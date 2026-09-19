@@ -6,7 +6,7 @@
 
 <a href="mailto:Drishti.tech23@gmail.com"><img src="https://img.shields.io/badge/Email-Drishti.tech23%40gmail.com-1C1A17?style=for-the-badge&logo=gmail&logoColor=57D9E8" /></a>
 <a href="https://linkedin.com/in/drishti-kaushik-465630304"><img src="https://img.shields.io/badge/LinkedIn-Connect-1C1A17?style=for-the-badge&logo=linkedin&logoColor=9089F2" /></a>
-<a href="https://catchout.in"><img src="https://img.shields.io/badge/Live%20Project-catchout.in-1C1A17?style=for-the-badge&logo=vercel&logoColor=57D9E8" /></a>
+<a href="https://blissboxgifting.in"><img src="https://img.shields.io/badge/Live%20Project-blissboxgifting.in-1C1A17?style=for-the-badge&logo=vercel&logoColor=57D9E8" /></a>
 
 </div>
 
@@ -15,8 +15,8 @@
 ### About me
 
 - 🎓 Final-year B.Tech CS (AI & ML) student at Aravali College of Engineering and Management, Faridabad — CGPA **8.525**, ranked top 3 in every semester so far
-- 🛠️ Production experience across internships (Truniqe, Twenty-One Holidays) and freelance client work under my own practice, **Drixaura**
-- 🏏 Currently building **[CatchOut](https://catchout.in)** — a slot-booking platform for cricket grounds and box cricket turfs in Faridabad
+- 🏛️ Currently a Software Developer Intern at **BiSAG-N**, Delhi
+- 🛠️ Production experience across internships at **Truniqe** and **Twenty-One Holidays** (a franchise of EaseMyTrip), plus freelance client work under my own practice, **Drixaura**
 - 🧠 I like understanding systems well enough to rebuild them by hand — most of what I know about backend engineering came from building the same feature twice: once fast with AI-assisted tools, once from scratch
 - 📫 Reach me at **Drishti.tech23@gmail.com** or on [LinkedIn](https://linkedin.com/in/drishti-kaushik-465630304)
 
@@ -45,15 +45,23 @@
 
 ---
 
+### Experience
+
+| Role | Where | When |
+|---|---|---|
+| **Software Developer Intern** | Twenty-One Holidays (a franchise of EaseMyTrip) | Feb – Apr 2026 |
+| **Software Developer Intern** | Truniqe | Jul – Aug 2026 |
+| **Software Developer Intern** *(current)* | BiSAG-N, Delhi | Sep 2026 – Present |
+
+---
+
 ### Things I've built
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[CatchOut](https://catchout.in)** | Slot-booking platform for cricket grounds & box cricket turfs in Faridabad | Flask · React · Razorpay |
-| **[BlissBox Gifting](https://blissboxgifting.in)** | Live e-commerce store, built end-to-end for a client | React · Node.js · Express · PostgreSQL |
-| **Clinic Appointment System** | Hand-coded appointment backend — patients, doctors, appointments, payments, with double-booking prevention at the service and database layer | Python · Flask · MySQL · SQLAlchemy |
-| **[Advocate Portfolio](https://rahulbidhuri.com)** | Lead-generation site for a Delhi NCR-based advocate, with a WhatsApp-integrated consultation form | HTML · CSS · JavaScript |
-| **Smart Attendance System** | Face-recognition-based attendance tracker with real-time detection | Python · OpenCV · Flask · MongoDB |
+| Project | What it is | Stack | When |
+|---|---|---|---|
+| **[Advocate Portfolio](https://rahulbidhuri.com)** | Lead-generation site for a Delhi NCR-based advocate, with a WhatsApp-integrated consultation form | HTML · CSS · JavaScript | Jan 2026 |
+| **[BlissBox Gifting](https://blissboxgifting.in)** | Live e-commerce store, built end-to-end for a client | React · Node.js · Express · PostgreSQL | May – Jun 2026 |
+| **Nutriscan** | Scans a packaged food's barcode and classifies it healthy or not, using a hybrid of rule-based logic and a machine learning model | Python · Machine Learning | Aug 2026 |
 
 ---
 
@@ -62,8 +70,8 @@
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username to activate these -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&bg_color=0A0E1A&title_color=57D9E8&icon_color=9089F2&text_color=E9ECF5&border_color=232B4A" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=0A0E1A&stroke=232B4A&ring=57D9E8&fire=9089F2&currStreakLabel=E9ECF5&sideLabels=E9ECF5&currStreakNum=E9ECF5&sideNums=E9ECF5&dates=8891AC" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=drishtikaushik&show_icons=true&hide_title=true&bg_color=0A0E1A&title_color=57D9E8&icon_color=9089F2&text_color=E9ECF5&border_color=232B4A" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drishtikaushik&background=0A0E1A&stroke=232B4A&ring=57D9E8&fire=9089F2&currStreakLabel=E9ECF5&sideLabels=E9ECF5&currStreakNum=E9ECF5&sideNums=E9ECF5&dates=8891AC" height="165" />
 
 </div>
 
