@@ -69,9 +69,8 @@
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username to activate these -->
 <img src="https://github-readme-stats.vercel.app/api?username=drishtikaushik&show_icons=true&hide_title=true&bg_color=0A0E1A&title_color=57D9E8&icon_color=9089F2&text_color=E9ECF5&border_color=232B4A" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drishtikaushik&background=0A0E1A&stroke=232B4A&ring=57D9E8&fire=9089F2&currStreakLabel=E9ECF5&sideLabels=E9ECF5&currStreakNum=E9ECF5&sideNums=E9ECF5&dates=8891AC" height="165" />
+<img src="https://streak-stats.demolab.com/?user=drishtikaushik&background=0A0E1A&stroke=232B4A&ring=57D9E8&fire=9089F2&currStreakLabel=E9ECF5&sideLabels=E9ECF5&currStreakNum=E9ECF5&sideNums=E9ECF5&dates=8891AC" height="165" />
 
 </div>
 
