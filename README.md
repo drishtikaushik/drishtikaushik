@@ -18,7 +18,7 @@
 - 🏛️ Currently a Software Developer Intern at **BiSAG-N**, Delhi
 - 🛠️ Production experience across internships at **Truniqe** and **Twenty-One Holidays** (a franchise of EaseMyTrip), plus freelance client work under my own practice, **Drixaura**
 - 🧠 I like understanding systems well enough to rebuild them by hand — most of what I know about backend engineering came from building the same feature twice: once fast with AI-assisted tools, once from scratch
-- 100+ Problems Solved on Leetcode
+- 👩🏻‍💻100+ Problems Solved on Leetcode
 - 📫 Reach me at **Drishti.tech23@gmail.com** or on [LinkedIn](https://linkedin.com/in/drishti-kaushik-465630304)
 
 ---
